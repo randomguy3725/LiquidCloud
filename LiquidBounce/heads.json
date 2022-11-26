@@ -1,4 +1,4 @@
 {
-  "enabled":true,
-  "url":"https://headdb.org/api/category/all"
+    "enabled": true,
+    "url": "https://headdb.org/api/category/all"
 }
